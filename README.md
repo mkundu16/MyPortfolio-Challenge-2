@@ -1,6 +1,7 @@
 # Project Portfolio
 
 Advanced CSS Challenge (Module 2): Professional Portfolio
+Deployed Link: https://mkundu16.github.io/MyPortfolio-Challenge-2/
 
 In this project I wrote the HTML and CSS for a sample professional portfolio which will be updated over time to become my personal portfolio of work. 
 In the example links under 'My Work' I used what I have learned in the first two weeks of the bootcamp about HTML and CSS from scratch. I have added 
