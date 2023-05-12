@@ -19,8 +19,6 @@ Following are the requirements:
 - The page was designed to support multiple screen sizes, including tablets and mobile phones
 - Included some on hover effects for the various links and the projects on the page
 
-Link to deployed application:
-xxx
 
 # Screenshot
 ![Screenshot](https://github.com/mkundu16/MyPortfolio-Challenge-2/assets/131508495/c889db32-9ac1-41c4-b56a-09e32345f429)
